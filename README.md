@@ -90,7 +90,7 @@ The project followed a structured data analysis pipeline:
 *   **Data Manipulation & Analysis:** Pandas, NumPy
 *   **Data Visualization (Python):** Matplotlib, Seaborn
 *   **Interactive Dashboarding:** Microsoft Power BI
-*   **IDE/Editors:** Jupyter Lab/Notebook, VS Code (or your preferred editor)
+*   **IDE/Editors:** Jupyter Lab/Notebook, VS Code
 *   **Version Control:** Git, GitHub
 
 ## Setup and Installation
