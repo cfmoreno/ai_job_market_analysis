@@ -1,0 +1,27 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-freeze.txt # Often requirements.txt is committed, but pip-freeze might be local
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (if very large, otherwise commit processed data if small)
+# data/raw/*.csv # If raw data is huge and you don't want to commit it
+# data/processed/*.csv # If processed data is also huge
+
+# Power BI - temp files or large files if not essential for repo
+# powerbi/*.tmp
+# powerbi/backups/
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
