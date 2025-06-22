@@ -74,7 +74,7 @@ The project followed a structured data analysis pipeline:
     *   Visualizations created using Matplotlib and Seaborn to illustrate findings (e.g., salary distributions, top skills, salary vs. experience).
 
 3.  **Dashboard Development (Power BI):**
-    *   The transformed dataset (`transformed_ai_jobs_for_powerbi.csv`) was imported into Power BI.
+    *   The transformed dataset (`transformed_ai_jobs_data.csv`) was imported into Power BI.
     *   Further transformations performed in Power Query Editor, such as mapping abbreviated `experience_level` and `employment_type` values to their full descriptive names for better readability.
     *   An interactive multi-page dashboard was created to visualize key metrics and insights, including:
         *   KPIs for total jobs and average salary.
