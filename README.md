@@ -83,28 +83,6 @@ The project followed a structured data analysis pipeline:
         *   Salary trends and distributions.
         *   Slicers for dynamic filtering by location, industry, etc.
 
-## Project Structure
-
-ai-job-market-analysis/
-├── .gitignore
-├── data/
-│ ├── raw/ # Original, immutable dataset
-│ │ └── ai_job_dataset.csv
-│ └── processed/ # Cleaned and transformed data
-│ ├── cleaned_ai_jobs_data.csv
-│ └── transformed_ai_jobs_for_powerbi.csv # Corrected filename here
-├── notebooks/ # Jupyter notebooks for EDA
-│ └── 01_eda_ai_jobs.ipynb
-├── powerbi/ # Power BI files (.pbix) and design assets
-│ └── AI_Job_Market_Dashboard.pbix
-├── scripts/ # Python scripts for data processing
-│ ├── 01_data_cleaning.py
-│ └── 02_data_transformation.py
-├── screenshots/ # Contains images and screenshots for documentation
-├── LICENSE
-├── README.md # This file
-└── requirements.txt # Python package dependencies
-
 
 ## Technologies Used
 
